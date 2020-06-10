@@ -6,8 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Hola Mundo... Nuestra primera colaboracion";
-
+    std::cout << "Hola Mundo... Nuestra primera colaboracion\n";
+    std::cout << "Hola mundo... Línea contribuía por Delta :)\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
